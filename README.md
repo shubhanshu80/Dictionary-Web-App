@@ -20,3 +20,5 @@ Technologies used:
 3.)JavaScript (with fetch API)
 
 4.)JSON data file for dictionary data
+
+![Screenshot 2024-08-28 113853](https://github.com/user-attachments/assets/291aac2c-9f35-4c12-a4a6-33fba0e1cd78)
