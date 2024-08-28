@@ -1,0 +1,43 @@
+body {
+    margin: 10px;
+    padding: 0;
+  }
+  .dictionary {
+    background: #434646;
+    color: #fff;
+    max-width: 400px;
+    min-height: 100vh;
+    margin: 0 auto;
+  }
+  h1 {
+    margin-top: 0;
+    text-align: center;
+  }
+  .txtBox {
+    appearance: none;
+    -webkit-appearance:none;
+    font-size:16px;
+    padding: 15px;
+    width: 100%;
+  }
+  .submit-btn {
+    appearance: none;
+    -webkit-appearance:none;
+    padding: 15px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: grey;
+    color: #fff;
+    font-size: 15px;
+    height: 100%;
+  }
+  form {
+    position: relative;
+  }
+  .search-result{
+    padding:20px;
+  }
+  .search-word{
+    font-style:italic;
+  }
